@@ -1,0 +1,13 @@
+.titlu {
+  font-size: 30px;
+  font-weight: 800;
+  color: pink;
+}
+
+.margineSus {
+  margin-top: 50px;
+}
+
+.borduraJosAlbastra {
+  border-bottom: 15px solid blue;
+}
